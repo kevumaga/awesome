@@ -20,3 +20,6 @@
 Kelvin is STRONG.
 
 ![alt](http://google.com)	
+
+:smile:
+:satisfied:
